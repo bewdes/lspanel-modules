@@ -46,13 +46,13 @@
       "icon": "⚡",
       "versions": [
         {
-          "version": "1.25.5",
-          "downloadUrl": "https://nginx.org/download/nginx-1.25.5.zip",
-          "fileName": "nginx-1.25.5.zip",
+          "version": "1.26.3",
+          "downloadUrl": "https://nginx.org/download/nginx-1.26.3.zip",
+          "fileName": "nginx-1.26.3.zip",
           "architecture": "x64",
           "vsVersion": null,
           "size": "15 MB",
-          "releasedAt": "2024-01-01T00:00:00Z"
+          "releasedAt": "2025-10-28"
         }
       ]
     },
@@ -64,13 +64,13 @@
       "icon": "🗄️",
       "versions": [
         {
-          "version": "10.11.7",
-          "downloadUrl": "https://mirror.mariadb.org/mariadb-10.11.7/winx64-packages/mariadb-10.11.7-winx64.zip",
-          "fileName": "mariadb-10.11.7-winx64.zip",
-          "architecture": "x64",
+          "version": "11.8.3",
+          "downloadUrl": "https://ftp.icm.edu.pl/pub/unix/database/mariadb//mariadb-11.8.3/winx64-packages/mariadb-11.8.3-winx64.msi",
+          "fileName": "mariadb-11.8.3-winx64.msi",
+          "architecture": "x86_x64",
           "vsVersion": null,
-          "size": "120 MB",
-          "releasedAt": "2024-01-01T00:00:00Z"
+          "size": "80.8 MB",
+          "releasedAt": "2025-08-01"
         }
       ]
     },
@@ -82,13 +82,13 @@
       "icon": "📦",
       "versions": [
         {
-          "version": "20.10.0",
-          "downloadUrl": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-win-x64.zip",
-          "fileName": "node-v20.10.0-win-x64.zip",
+          "version": "25.1.0",
+          "downloadUrl": "https://nodejs.org/dist/v25.1.0/node-v25.1.0-x64.msi",
+          "fileName": "node-v25.1.0-x64.msi",
           "architecture": "x64",
           "vsVersion": null,
-          "size": "35 MB",
-          "releasedAt": "2024-01-01T00:00:00Z"
+          "size": "31 780 MB",
+          "releasedAt": null
         }
       ]
     }
