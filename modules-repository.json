@@ -1,0 +1,97 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-01T00:00:00Z",
+  "modules": {
+    "apache": {
+      "name": "Apache HTTP Server",
+      "description": "Web server for hosting websites",
+      "author": "Apache Software Foundation",
+      "category": "webserver",
+      "icon": "🌐",
+      "versions": [
+        {
+          "version": "2.4.65",
+          "downloadUrl": "https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.65-250724-Win64-VS17.zip",
+          "fileName": "Apache 2.4.65-250724 Win64",
+          "architecture": "x64",
+          "vsVersion": "VS17",
+          "size": "11 940 MB",
+          "releasedAt": "2025-Jul-24"
+        }
+      ]
+    },
+    "php": {
+      "name": "PHP",
+      "description": "PHP interpreter for executing PHP scripts",
+      "author": "PHP Group",
+      "category": "runtime",
+      "icon": "🚀",
+      "versions": [
+        {
+          "version": "PHP 8.4 (8.4.14)",
+          "downloadUrl": "https://windows.php.net/downloads/releases/php-8.4.14-nts-Win32-vs17-x64.zip",
+          "fileName": "php-8.4.14-nts-Win32-vs17-x64.zip",
+          "architecture": "x64",
+          "vsVersion": "VS17 x64 Non Thread Safe",
+          "size": "31.95 MB",
+          "releasedAt": "2025-Oct-22 08:52:16"
+        }
+      ]
+    },
+    "nginx": {
+      "name": "Nginx",
+      "description": "High-performance web server and reverse proxy",
+      "author": "Nginx Inc.",
+      "category": "webserver",
+      "icon": "⚡",
+      "versions": [
+        {
+          "version": "1.25.5",
+          "downloadUrl": "https://nginx.org/download/nginx-1.25.5.zip",
+          "fileName": "nginx-1.25.5.zip",
+          "architecture": "x64",
+          "vsVersion": null,
+          "size": "15 MB",
+          "releasedAt": "2024-01-01T00:00:00Z"
+        }
+      ]
+    },
+    "mariadb": {
+      "name": "MariaDB",
+      "description": "Database management system",
+      "author": "MariaDB Foundation",
+      "category": "database",
+      "icon": "🗄️",
+      "versions": [
+        {
+          "version": "10.11.7",
+          "downloadUrl": "https://mirror.mariadb.org/mariadb-10.11.7/winx64-packages/mariadb-10.11.7-winx64.zip",
+          "fileName": "mariadb-10.11.7-winx64.zip",
+          "architecture": "x64",
+          "vsVersion": null,
+          "size": "120 MB",
+          "releasedAt": "2024-01-01T00:00:00Z"
+        }
+      ]
+    },
+    "nodejs": {
+      "name": "Node.js",
+      "description": "JavaScript runtime built on V8 engine",
+      "author": "Node.js Foundation",
+      "category": "runtime",
+      "icon": "📦",
+      "versions": [
+        {
+          "version": "20.10.0",
+          "downloadUrl": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-win-x64.zip",
+          "fileName": "node-v20.10.0-win-x64.zip",
+          "architecture": "x64",
+          "vsVersion": null,
+          "size": "35 MB",
+          "releasedAt": "2024-01-01T00:00:00Z"
+        }
+      ]
+    }
+  }
+}
+
