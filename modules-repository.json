@@ -44,6 +44,24 @@
           "vsVersion": "VS16 x64 Non Thread Safe",
           "size": "30.72 MB",
           "releasedAt": "2025-Oct-21 16:04:44"
+        },
+        {
+          "version": "PHP 8.2 (8.2.29)",
+          "downloadUrl": "https://windows.php.net/downloads/releases/php-8.2.29-nts-Win32-vs16-x64.zip",
+          "fileName": "php-8.2.39-nts-Win32-vs16-x64.zip",
+          "architecture": "x64",
+          "vsVersion": "VS16 x64 Non Thread Safe",
+          "size": "30.45 MB",
+          "releasedAt": "2025-Jul-01 20:37:54"
+        },
+        {
+          "version": "PHP 8.1 (8.1.33)",
+          "downloadUrl": "https://windows.php.net/downloads/releases/php-8.1.33-nts-Win32-vs16-x64.zip",
+          "fileName": "php-8.1.33-nts-Win32-vs16-x64.zip",
+          "architecture": "x64",
+          "vsVersion": "VS16 x64 Non Thread Safe",
+          "size": "29.735 MB",
+          "releasedAt": "2025-Jul-02 09:09:18"
         }
       ]
     },
