@@ -107,7 +107,16 @@
           "vsVersion": null,
           "size": "80.8 MB",
           "releasedAt": "2025-08-01"
-        }
+        },
+        {
+          "version": "10.11.14",
+          "downloadUrl": "https://ftp.icm.edu.pl/pub/unix/database/mariadb//mariadb-10.11.14/winx64-packages/mariadb-10.11.14-winx64.msi",
+          "fileName": "mariadb-10.11.14-winx64.msi",
+          "architecture": "x86_x64",
+          "vsVersion": null,
+          "size": "79.1 MB",
+          "releasedAt": "2025-08-06"
+        },
       ]
     },
     "nodejs": {
