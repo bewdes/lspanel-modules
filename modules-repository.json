@@ -73,13 +73,22 @@
       "icon": "⚡",
       "versions": [
         {
+          "version": "1.28.0",
+          "downloadUrl": "https://nginx.org/download/nginx-1.28.0.zip",
+          "fileName": "nginx-1.28.0.zip",
+          "architecture": "x64",
+          "vsVersion": "Stable",
+          "size": "2 MB",
+          "releasedAt": "23 Apr 2025"
+        },
+        {
           "version": "1.26.3",
           "downloadUrl": "https://nginx.org/download/nginx-1.26.3.zip",
           "fileName": "nginx-1.26.3.zip",
           "architecture": "x64",
-          "vsVersion": null,
-          "size": "15 MB",
-          "releasedAt": "2025-10-28"
+          "vsVersion": "Legacy",
+          "size": "2 MB",
+          "releasedAt": "05 Feb 2025"
         }
       ]
     },
