@@ -28,7 +28,7 @@
       "icon": "🚀",
       "versions": [
         {
-          "version": "PHP 8.4 (8.4.14)",
+          "version": "8.4.14",
           "downloadUrl": "https://windows.php.net/downloads/releases/php-8.4.14-nts-Win32-vs17-x64.zip",
           "fileName": "php-8.4.14-nts-Win32-vs17-x64.zip",
           "architecture": "x64",
@@ -37,7 +37,7 @@
           "releasedAt": "2025-Oct-22 08:52:16"
         },
         {
-          "version": "PHP 8.3 (8.3.27)",
+          "version": "8.3.27",
           "downloadUrl": "https://windows.php.net/downloads/releases/php-8.3.27-nts-Win32-vs16-x64.zip",
           "fileName": "php-8.3.27-nts-Win32-vs16-x64.zip",
           "architecture": "x64",
@@ -46,7 +46,7 @@
           "releasedAt": "2025-Oct-21 16:04:44"
         },
         {
-          "version": "PHP 8.2 (8.2.29)",
+          "version": "8.2.29",
           "downloadUrl": "https://windows.php.net/downloads/releases/php-8.2.29-nts-Win32-vs16-x64.zip",
           "fileName": "php-8.2.39-nts-Win32-vs16-x64.zip",
           "architecture": "x64",
@@ -55,7 +55,7 @@
           "releasedAt": "2025-Jul-01 20:37:54"
         },
         {
-          "version": "PHP 8.1 (8.1.33)",
+          "version": "8.1.33",
           "downloadUrl": "https://windows.php.net/downloads/releases/php-8.1.33-nts-Win32-vs16-x64.zip",
           "fileName": "php-8.1.33-nts-Win32-vs16-x64.zip",
           "architecture": "x64",
